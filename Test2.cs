@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-class GuessingTheSecretNumber
+class GuessTheSecretNumber
 {
     private static void Main()
     {
